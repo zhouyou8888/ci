@@ -6,7 +6,7 @@
  * @date:2017-02-28
  * * */
 
-class UserController extends Controller {
+class UserController extends Controller2 {
 
     private $user_table = 'ocs_user';
     private $ugroup_table = 'ocs_ugroup';
